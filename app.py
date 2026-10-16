@@ -1,2 +1,6 @@
 name="Barish"
-print("gitpractice:",name)
+print("Git practice:",name)
+def greet():
+    print("Hello from Git!")
+
+greet()
